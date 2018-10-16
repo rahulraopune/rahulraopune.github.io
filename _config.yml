@@ -1,0 +1,6 @@
+markdown: redcarpet
+baseurl: /rahulraopune.github.io
+exclude: [READMD.md,vendor]
+
+sass:
+  style: compressed
