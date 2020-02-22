@@ -1,6 +1,11 @@
 markdown: redcarpet
 baseurl: /rahulraopune.github.io
 exclude: [READMD.md,vendor]
-
+languages: ["en", "de"]
+exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: en
+languageNames:
+  de: Deutsch
+  en: English
 sass:
   style: compressed
